@@ -1,0 +1,29 @@
+{
+	"name": "layla",
+	"widgets": "fusion",
+	"colors": {
+		"AlternateBase": "#292125",
+		"Base": "#191115",
+		"BrightText": "#baa",
+		"Button": "#292125",
+		"ButtonText": "#fef",
+		"Highlight": "#846",
+		"HighlightedText": "#fef",
+		"Link": "#6b8",
+		"Text": "#fef",
+		"ToolTipBase": "#292125",
+		"ToolTipText": "#fef",
+		"Window": "#191115",
+		"WindowText": "#fef",
+		"fadeAmount": 0.5,
+		"fadeColor": "#191115"
+	},
+	"logColors": {
+		"Launcher": "#b68",
+		"Error": "#b66",
+		"Warning": "#b86",
+		"Debug": "#86b",
+		"FatalHighlight": "#844",
+		"Fatal": "#fef"
+	}
+}
