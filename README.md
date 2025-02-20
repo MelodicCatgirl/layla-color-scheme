@@ -7,6 +7,7 @@ hi this is my color scheme which i egotistically named after myself because i di
 ## config files in this repository
 - **xfce4-terminal** color scheme (put this in `~/.local/share/xfce4/terminal/colorschemes`)
 - **PrismLauncher** theme (create a folder in `~/.local/share/PrismLauncher/themes`)
+
 more things will be added here as i make them
 
 ## my other adaptations of this theme
