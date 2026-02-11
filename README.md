@@ -6,6 +6,7 @@ hi this is my color scheme which i egotistically named after myself because i di
 
 ## config files in this repository
 - **xfce4-terminal** color scheme (put this in `~/.local/share/xfce4/terminal/colorschemes/`)
+- **Chromium** color scheme (made with [chrometheme.studio](https://chrometheme.studio/))
 - **PrismLauncher** theme (create a folder in `~/.local/share/PrismLauncher/themes/`)
 - **Termux** color scheme (put this in `~/.termux/`)
 
