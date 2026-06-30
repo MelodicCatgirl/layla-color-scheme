@@ -1,0 +1,23 @@
+{
+	"manifest_version": 2,
+	"name": "Layla's Helium theme",
+	"author": "MelodicCatgirl",
+	"description": "https://github.com/melodiccatgirl/layla-color-scheme",
+	"version": "1.0",
+	"theme": {
+		"colors": {
+			"frame": [25, 17, 21],
+			"frame_inactive": [25, 17, 21],
+			"background_tab": [41, 33, 37],
+			"background_tab_inactive": [41, 33, 37],
+			"bookmark_text": [255, 238, 255],
+			"tab_background_text": [187, 170, 170],
+			"tab_background_text_inactive": [187, 170, 170],
+			"tab_text": [255, 238, 255],
+			"toolbar": [25, 17, 21],
+			"toolbar_button_icon": [255, 238, 255],
+			"omnibox_background": [41, 33, 37],
+			"omnibox_text": [255, 238, 255]
+		}
+	}
+}
