@@ -10,6 +10,7 @@ hi this is my color scheme which i egotistically named after myself because i di
 - **Helium** theme (load as an unpacked extension)
 - **Termux** color scheme (put this in `~/.termux/`)
 - **PrismLauncher** theme (create a folder in `~/.local/share/PrismLauncher/themes/`)
+- **RetroArch** rgui color scheme
 and a desktop wallpaper I made
 
 more things will be added here as i make them
